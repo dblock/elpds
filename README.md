@@ -2,6 +2,8 @@
 
 ELPDS 1.0 (Enhanced Logical & Physical Drive Status) is a DOS hard-drive inspection utility written by Daniel Doubrovkine in 1995.
 
+Read the blog post: [ELPDS: Inspecting FAT Partitions in 1995](https://code.dblock.org/2026/10/11/elpds-a-1995-dos-disk-inspection-tool.html).
+
 ![ELPDS inspecting a FAT16 demo disk in DOSBox-X](elpds-dosbox.png)
 
 It reports BIOS disk geometry and partition-table entries, then reads a selected logical drive's FAT boot sector to display its filesystem parameters, volume label, serial number, capacity, and free space. Its original purpose was checking whether a partition exists and is formatted, with return codes usable from batch files. I think I was just trying to learn about the underlying partition mechanics.
