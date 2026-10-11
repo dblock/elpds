@@ -18,7 +18,7 @@ The original help credits substantial code from FIPS and contains a historical n
 
 ### FIPS
 
-FIPS stands for *First nondestructive Interactive Partition Splitting program*. It was a DOS utility for splitting an existing FAT partition without deleting its files, often used to make room for Linux alongside DOS or Windows.
+[FIPS](https://en.wikipedia.org/wiki/FIPS_(computer_program)) stands for *First nondestructive Interactive Partition Splitting program*. It was a DOS utility for splitting an existing FAT partition without deleting its files, often used to make room for Linux alongside DOS or Windows. See the archived [original project page](https://web.archive.org/web/20060426002555/http://www.igd.fhg.de:80/~aschaefe/fips/) and [Berkeley project page](https://web.archive.org/web/20090413115233/http://bmrc.berkeley.edu/people/chaffee/fips/fips.html).
 
 FIPS was written by Arno Schaefer. An [archived FIPS source file](https://web.mit.edu/ghudson/sipb/fips/main.cc) credits him, copyright 1993, and specifies GPL version 2 or later. ELPDS's original help credits him as "Mr. Schaeffer" (misspelled).
 
