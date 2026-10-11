@@ -1,0 +1,5 @@
+ported/*.OBJ
+ported/*.ERR
+ported/*.LOG
+ported/BUILD.OK
+ported/*.img
